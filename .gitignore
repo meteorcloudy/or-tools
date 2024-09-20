@@ -103,3 +103,6 @@ CMakeFiles
 DartConfiguration.tcl
 *build*/*
 build/
+
+MODULE.bazel.lock
+
